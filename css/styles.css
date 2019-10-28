@@ -1,0 +1,57 @@
+  body{
+    background-color: #fcf9ea;
+    margin: 2;
+  }
+
+
+  .Heading {
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 150px;
+    text-align: center;
+
+  }
+
+  .topcloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+  }
+
+  .bottomcloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+  }
+  hr{
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    height: 2px;
+    width: 10%;
+  }
+  .dp{
+    margin: 10px;
+    height: 150px;
+  }
+h1{
+  color:  #49beb7;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+h3:hover
+{
+  color:  #49beb7;
+}
+
+.edu{
+  color: #01024e;
+}
+
+.pro {
+  color: #6e2142;
+}
+#name {
+  color: #1089ff;
+}
